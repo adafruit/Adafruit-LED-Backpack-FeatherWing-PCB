@@ -4,12 +4,25 @@ PCB files for Adafruit LED Backpack FeatherWings
 Adafruit LED Matrix backpack Featherwings
 
 These are the Eagle CAD files for the Adafruit LED Backpack breakouts:
+
+7-segment:
+
   * http://www.adafruit.com/products/3088
   * http://www.adafruit.com/products/3106
   * http://www.adafruit.com/products/3107
   * http://www.adafruit.com/products/3108
   * http://www.adafruit.com/products/3109
   * http://www.adafruit.com/products/3110
+
+14-segment:
+
+  * http://www.adafruit.com/products/3089
+  * http://www.adafruit.com/products/3127
+  * http://www.adafruit.com/products/3128
+  * http://www.adafruit.com/products/3129
+  * http://www.adafruit.com/products/3130
+  * http://www.adafruit.com/products/3131
+  * http://www.adafruit.com/products/3132
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
