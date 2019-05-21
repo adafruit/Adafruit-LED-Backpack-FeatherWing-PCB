@@ -1,4 +1,4 @@
-# Adafruit-LED-Backpack-FeatherWing-PCB
+## Adafruit LED Backpack FeatherWing PCB
 <a href="http://www.adafruit.com/products/3088"><img src="assets/3088.jpg?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/3089"><img src="assets/3089.jpg?raw=true" width="400px"></a><br />
 Click to purchase from the Adafruit Shop:
 - [Adafruit 4-Digit 7-Segment LED Matrix Display FeatherWing](https://www.adafruit.com/product/3088)
@@ -32,8 +32,6 @@ This is the Adafruit 0.56" 4-Digit 14-Segment Display FeatherWing! This 14-segme
 - http://www.adafruit.com/products/3130
 - http://www.adafruit.com/products/3131
 - http://www.adafruit.com/products/3132
-
-Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
 These displays use I2C to communicate, 2 pins are required to 
 interface. There are multiple selectable I2C addresses. For backpacks 
