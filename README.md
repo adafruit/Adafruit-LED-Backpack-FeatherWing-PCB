@@ -6,7 +6,7 @@ Click to purchase from the Adafruit Shop:
 
 These are the Eagle CAD files for the Adafruit LED FeatherWings Backpack breakouts:
 
-7-segment:
+### 7-segment
 
 This is the Adafruit 4-Digit 7-Segment LED Matrix Display FeatherWing! This 7-segment FeatherWing backpack makes it really easy to add a 4-digit numeric display with decimal points and even 'second colon dots' for making a clock.
 
@@ -19,7 +19,7 @@ This version does not come with an LED matrix. Its also available in combo packs
 - http://www.adafruit.com/products/3109
 - http://www.adafruit.com/products/3110
 
-14-segment:
+### 14-segment
 
 This is the Adafruit 0.56" 4-Digit 14-Segment Display FeatherWing! This 14-segment FeatherWing backpack makes it really easy to add a bright alphanumeric display that shows letters and numbers in a beautiful hue. It's super bright and designed for viewing from distances up to 23 feet (7 meters) away.
 
